@@ -19,7 +19,7 @@
 
 
 <div align="center"> 
-  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+ 
 <a href="https://www.linkedin.com/in/carlos-backend-005040210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
@@ -38,10 +38,3 @@
 
 
 
-
-### Studying in this moment:
-
-
-
-
--->
