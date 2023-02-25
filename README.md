@@ -19,7 +19,6 @@
 
 
 <div align="center"> 
- 
 <a href="https://www.linkedin.com/in/carlos-backend-005040210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
