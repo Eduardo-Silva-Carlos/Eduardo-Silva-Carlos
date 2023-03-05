@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Eduardo;I'm+37+years+old;I'm+from+Brazil;I+BackEnd+systems+Development+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Silva-Carlos&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo github stats" /> 
-
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Silva-Carlos&show_icons=true&count_private=true&hide_border=true&title_color=FFF000&icon_color=FFF000&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Silva github stats" />  
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Silva-Carlos&layout=compact&hide_border=true&title_color=FFFF00&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eduardo-Silva-Carlos&bg_color=080808&color=7af202&line=c3c3b6&point=fbcc23&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -20,7 +21,7 @@
  </div>
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF000&height=120&section=footer"/>
 
 
 
