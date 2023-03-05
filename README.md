@@ -4,9 +4,6 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Silva-Carlos&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Silva-Carlo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
 
 
 
@@ -21,7 +18,6 @@
 <div align="center"> 
 <a href="https://www.linkedin.com/in/carlos-backend-005040210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
 
 
 
