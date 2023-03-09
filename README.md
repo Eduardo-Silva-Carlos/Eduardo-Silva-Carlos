@@ -28,9 +28,9 @@
 
 
  ###  Currently studying
-![JavaScrpipt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C#](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=Black)&nbsp;
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=Blue)&nbsp;
+![C#](	https://img.shields.io/badge/C%23-0000FF?style=for-the-badge&logo=c-sharp&logoColor=Red)&nbsp;
 
 
 
