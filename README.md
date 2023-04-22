@@ -28,8 +28,7 @@
 
 
  ###  Currently studying
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=Blue)&nbsp;
+
 ![C#](	https://img.shields.io/badge/C%23-0000FF?style=for-the-badge&logo=c-sharp&logoColor=Red)&nbsp;
 
 
