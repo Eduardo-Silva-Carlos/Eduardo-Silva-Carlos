@@ -30,6 +30,7 @@
  ###  Currently studying
 
 ![C#](	https://img.shields.io/badge/C%23-0000FF?style=for-the-badge&logo=c-sharp&logoColor=Red)&nbsp;
+![java].(  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white;
 
 
 
