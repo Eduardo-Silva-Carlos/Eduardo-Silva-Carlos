@@ -28,6 +28,10 @@
 
 
  ###  Currently studying
+ ## Ferramentas
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
 
 ![C#](https://img.shields.io/badge/C%23-0000FF?style=for-the-badge&logo=c-sharp&logoColor=Red)&nbsp;
 ![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
