@@ -8,8 +8,10 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eduardo-Silva-Carlos&bg_color=080808&color=7af202&line=c3c3b6&point=fbcc23&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1498px" height="523px" viewBox="0 0 1498 523" enable-background="new 0 0 1498 523" xml:space="preserve">  <image id="image0" width="1498" height="523" x="0" y="0"
+    
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Silva-Carlos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
