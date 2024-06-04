@@ -8,14 +8,15 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduardo-Silva-Carlos&theme=dracula)](https://github.com/Eduardo-Silva-Carlos/github-readme-activity-graph)
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Silva-Carlos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/carlos-backend-005040210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+    <a href="https://www.linkedin.com/in/carlos-backend-005040210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF000&height=120&section=footer"/>
