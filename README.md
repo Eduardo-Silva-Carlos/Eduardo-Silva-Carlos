@@ -7,14 +7,9 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Silva-Carlos&layout=compact&hide_border=true&title_color=FFFF00&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1498px" height="523px" viewBox="0 0 1498 523" enable-background="new 0 0 1498 523" xml:space="preserve">  <image id="image0" width="1498" height="523" x="0" y="0"
-    
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduardo-Silva-Carlos&theme=dracula)](https://github.com/Eduardo-Silva-Carlos/github-readme-activity-graph)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eduardo-Silva-Carlos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
