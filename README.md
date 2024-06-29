@@ -30,9 +30,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
-
+![Java]( https://img.shields.io/badge/Java-000301?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![kotlin](https://img.shields.io/badge/Kotlin-000014?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0000FF?style=for-the-badge&logo=c-sharp&logoColor=Red)&nbsp;
-![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript]( https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
