@@ -28,4 +28,4 @@
  ###  Currently studying
  ## Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,idea,sqlite&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=spring,java,androidstudio,obsidian,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,obsidian,git,github&theme=dark)](https://skillicons.dev)
