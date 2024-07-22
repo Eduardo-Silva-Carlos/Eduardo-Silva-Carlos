@@ -27,13 +27,5 @@
 
  ###  Currently studying
  ## Ferramentas
-
-<div style="display: inline_block"> 
-<img align="center" alt="menezesledilson-Java" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
-<img align="center" alt="menezesledilson-Idea" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg"/>
-<img align="center" alt="menezesledilson-Eclipse" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg"/>
-<img align="center" alt="menezesledilson-Spring boot" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"/>
-<img align="center" alt="menezesledilson-Postman" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"/>
-<img align="center" alt="menezesledilson-Github" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"/>
-<img align="center" alt="menezesledilson-Docker" height="50" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"/>
-
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,idea,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,androidstudio,obsidian,git,github&theme=dark)](https://skillicons.dev)
